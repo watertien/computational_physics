@@ -1,1 +1,3 @@
-"# computational_physics" 
+# computational_physics
+
+Assignent mostly in ipython jupyter notebook.
