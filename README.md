@@ -1,3 +1,3 @@
 # computational_physics
 
-Assignent mostly in ipython jupyter notebook.
+Assignment mostly in ipython jupyter notebook.
